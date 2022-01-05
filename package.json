@@ -1,0 +1,18 @@
+{
+    "name": "test-tdd",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "FaustoZaruma",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^27.4.6"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "body-parser": "^1.19.1",
+        "express": "^4.17.2"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
