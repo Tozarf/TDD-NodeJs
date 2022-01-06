@@ -5,7 +5,8 @@
     "author": "FaustoZaruma",
     "license": "MIT",
     "devDependencies": {
-        "jest": "^27.4.6"
+        "jest": "^27.4.6",
+        "supertest": "^6.1.6"
     },
     "dependencies": {
         "axios": "^0.24.0",
